@@ -1,8 +1,8 @@
-# Carbon defenition
+# Defenition of Carbon
 
 Carbon is a simple set of scripts to build J2ME-applications on almost every platform. It was developed as a method to create J2ME-applications on single-board computers like Raspberry Pi.
 
-## Carbon's content
+## Content
 
 * Sample.java (MIDlet sample)
 * manifest (MANIFEST.MF)
@@ -15,7 +15,7 @@ Carbon is a simple set of scripts to build J2ME-applications on almost every pla
 * preverify (script)
 * run (script)
 
-## Instructions on how to use Carbon
+## Instructions on how to use it
 
 Before using Carbon make sure You have installed:
 
