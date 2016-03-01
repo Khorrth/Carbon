@@ -1,0 +1,2 @@
+#!/bin/sh
+proguard -injars "Sample.jar" -outjars "Sample-preverified.jar" -libraryjars "libraries/j2me.jar" -target 1.4 -dontshrink -dontoptimize -dontobfuscate -microedition -verbose

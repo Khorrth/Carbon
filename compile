@@ -1,0 +1,2 @@
+#!/bin/sh
+javac -target 1.4 -source 1.4 -sourcepath "." -cp "libraries/j2me.jar" "Sample.java"
