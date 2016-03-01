@@ -19,8 +19,8 @@ Carbon is a simple set of scripts to build J2ME-applications on almost every pla
 
 Before using Carbon make sure You have installed:
 
-* JDK;
-* Proguard;
+* JDK
+* Proguard
 
 Imagine "Sample.java" is MIDlet You want to build and launch on J2ME-phone (or emulator included in project):
 
