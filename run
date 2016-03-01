@@ -1,2 +1,2 @@
 #!/bin/sh
-java -Xbootclasspath/a:libraries/sixlegs.jar -jar libraries/pstros.jar Deuterium-preverified.jar -w240 -h320
+java -Xbootclasspath/a:libraries/sixlegs.jar -jar libraries/pstros.jar Sample-preverified.jar -w240 -h320
