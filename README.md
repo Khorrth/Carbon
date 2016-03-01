@@ -2,7 +2,7 @@
 
 Carbon is a simple set of scripts to build J2ME-applications on almost every platform.
 
-## Carbon Contents
+## Carbon's content
 
 * Sample.java (MIDlet sample)
 * manifest (MANIFEST.MF)
