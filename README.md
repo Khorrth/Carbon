@@ -22,7 +22,7 @@ Before using Carbon make sure You have installed:
 * JDK
 * Proguard
 
-Imagine "Sample.java" is MIDlet You want to build and launch on J2ME-phone (or emulator included in project):
+Imagine "Sample.java" is MIDlet You want to build and launch on J2ME-phone (or emulator included in the project):
 
 ```sh
 ./compile
