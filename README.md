@@ -24,7 +24,7 @@ Before use make sure You have installed:
 
 Imagine "Sample.java" is MIDlet You want to build and launch on J2ME-phone (or emulator included in project):
 
-```
+```sh
 ./compile
 ./build
 ./preverify
