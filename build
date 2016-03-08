@@ -1,2 +1,0 @@
-#!/bin/sh
-jar -cfm "Sample.jar" "manifest" *.class
