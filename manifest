@@ -1,5 +1,5 @@
-MIDlet-1: Sample, , Sample
-MIDlet-Name: Sample
+MIDlet-1: Sample Application, , Sample
+MIDlet-Name: Sample Application
 MIDlet-Vendor: Khorrth
 MIDlet-Version: 0.1
 MicroEdition-Configuration: CLDC-1.1
