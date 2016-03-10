@@ -13,8 +13,16 @@ Carbon Oxyde is an attempt to improve it. It's in development at the moment. Che
 
 ## Implemented features
 
-Now Carbon can only build J2ME-applications, which have manifest (META-INF/MANIFEST.MF), only one MIDlet (MIDlet-1). All the sources must be in the root folder of the project. Ability to build projects with different organization will be implemented in next commits. To build the sample use following command:
+* Friendly output
+* Basic building based on application manifest
 
+## To do
+
+* Flexibility enhances (including GPCP-projects building) 
+* Reach set of J2ME-libraries
+* [@kalterfive](http://github.com/kalterfive) packaging scripts support
+
+## Usage
 ```bash
 ./carbon build manifest
 ```
