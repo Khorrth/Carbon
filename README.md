@@ -19,7 +19,7 @@ Carbon Oxyde is an attempt to improve it. It's in development at the moment. Che
 ## To do
 
 * Flexibility enhances (including GPCP-projects building) 
-* Reach set of J2ME-libraries
+* J2ME-libraries set enreachment
 * [@kalterfive](http://github.com/kalterfive) packaging scripts support
 
 ## Usage
