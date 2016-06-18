@@ -9,7 +9,7 @@ Carbon is a simple set of scripts to build J2ME-applications on almost every pla
 * libraries 
   * j2me.jar (includes MIDP 2.0, CLDC 1.1)
   * pstros.jar (J2ME-emulator)
-  * sixlegs.jar (image library for emulator)
+  * sixlegs.jar (image library for emulator; not neccessary to use; may not work)
 * compile (script)
 * build (script)
 * preverify (script)
