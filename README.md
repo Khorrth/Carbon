@@ -1,6 +1,8 @@
-# Defenition of Carbon
+# Carbon
 
 Carbon is a simple set of scripts to build J2ME-applications on almost every platform. It was developed as a method to create J2ME-applications on single-board computers like Raspberry Pi.
+
+At the moment Carbon is improved to allow Android applications be built. Repository will be updated in a few days.
 
 ## Content
 
